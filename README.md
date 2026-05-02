@@ -5,7 +5,7 @@ Ask any question about a PDF document and get a grounded answer from Claude. The
 ## Demo
 ![Q&A Demo](docs/qa_demo.png)
 
-See [docs/example_qa.md](docs/example_qa.md) for 4 question types tested against an industry report.
+See [Examples](docs/example_qa.md) for 4 question types tested against an industry report.
 
 
 ## What it does
