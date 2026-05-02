@@ -1,0 +1,19 @@
+.env
+venv/
+
+#Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+#Test Data
+test.pdf
+*.pdf
+
+#OS Files
+.DS_Store
+Thumbs.db
+
+#Editor
+.vscode/
+*.swp
