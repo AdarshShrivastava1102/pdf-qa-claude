@@ -3,7 +3,7 @@
 Ask any question about a PDF document and get a grounded answer from Claude. The natural follow-up to my [PDF Summarizer](https://github.com/AdarshShrivastava1102/pdf-summarizer-claude) — same architecture, different use case.
 
 ## Demo
-![Q&A Demo] (docs/qa_demo.png)
+![Q&A Demo](docs/qa_demo.png)
 
 See [docs/example_qa.md](docs/example_qa.md) for 4 question types tested against an industry report.
 
